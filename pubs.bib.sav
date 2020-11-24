@@ -1053,15 +1053,4 @@
   publisher = {Wiley},
 }
 
-@Article{Smithetal:2020,
-  author    = {D. Scott Smith and R. Nasir and Wayne Parker and A. Peters and G. Merrington and R. van Egmond and S. Lofts},
-  journal   = {Science of The Total Environment},
-  title     = {Developing Understanding of the Fate and Behaviour of Silver in Fresh Waters and Waste Waters},
-  year      = {2020},
-  month     = {nov},
-  pages     = {143648},
-  doi       = {10.1016/j.scitotenv.2020.143648},
-  publisher = {Elsevier {BV}},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
