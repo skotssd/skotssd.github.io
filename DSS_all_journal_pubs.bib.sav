@@ -1153,4 +1153,26 @@
   url      = {https://doi.org/10.1186/s40538-023-00401-y},
 }
 
+@Article{Alnimeretal:2023,
+  author    = {Aseel A. Alnimer and D. Scott Smith and Wayne J. Parker},
+  journal   = {Journal of Environmental Chemical Engineering},
+  title     = {Insight into direct phosphorus release from simulated wastewater ferric sludge: Influence of physiochemical factors},
+  year      = {2023},
+  month     = {jun},
+  number    = {3},
+  pages     = {110259},
+  volume    = {11},
+  doi       = {10.1016/j.jece.2023.110259},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{ElAlemetal:2023,
+  author    = {Anas El Alem and Karem Chokmani and Aarthi Venkatesan and Rachid Lhissou and Sarah Martins and Peter Campbell and Jeffrey Cardille and James McGeer and D. Scott Smith},
+  journal   = {SSRN},
+  title     = {Modeling Dissolved Organic Carbon in Inland Waters Using an Unmanned Aerial Vehicles-Borne Hyperspectral Camera},
+  year      = {2023},
+  doi       = {10.2139/ssrn.4500576},
+  publisher = {Elsevier {BV}},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
