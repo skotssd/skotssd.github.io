@@ -1166,25 +1166,24 @@
   publisher = {Elsevier {BV}},
 }
 
-@Article{Morris2024,
-  author    = {Morris, Carolyn and Zulian, Samantha and Brauner, Colin J. and Wood, Chris M. and Smith, D. Scott},
-  journal   = {Environmental Chemistry},
-  title     = {A critical assessment of physicochemical indices used to characterise natural dissolved organic carbon (DOC), their inter-relationships, and the effects of pH},
-  year      = {2024},
-  issn      = {1448-2517},
-  number    = {4},
-  pages     = {NULL},
-  volume    = {21},
-  doi       = {10.1071/en24021},
-  publisher = {CSIRO Publishing},
+@Article{ElAlemetal:2023,
+  author    = {Anas El Alem and Karem Chokmani and Aarthi Venkatesan and Rachid Lhissou and Sarah Martins and Peter Campbell and Jeffrey Cardille and James McGeer and D. Scott Smith},
+  journal   = {SSRN},
+  title     = {Modeling Dissolved Organic Carbon in Inland Waters Using an Unmanned Aerial Vehicles-Borne Hyperspectral Camera},
+  year      = {2023},
+  doi       = {10.2139/ssrn.4500576},
+  publisher = {Elsevier {BV}},
 }
 
-@Article{Morrisetal:2024,
-  author  = {Morris, C. and Martins, C. and Zulian, S. And Smith, D. S. and Brauner, C. J. and Wood, C. M.},
-  journal = {Journal of Comparative Physiology B},
-  title   = {The effects of dissolved organic carbon and model compounds (DOC analogues) on diffusive water flux, oxygen consumption, nitrogenous waste excretion rates and gill transepithelial potential in Pacific sanddab (<i>Citharichthys sordidus</i>) at two salinities.},
-  year    = {2024},
-  doi     = {10.1007/s00360-024-01580-2},
+@Article{Alnimer2023,
+  author    = {Aseel A. Alnimer and D. Scott Smith and Wayne J. Parker},
+  journal   = {Chemosphere},
+  title     = {Phosphorus release and recovery by reductive dissolution of chemically precipitated phosphorus from simulated wastewater},
+  year      = {2023},
+  month     = {oct},
+  pages     = {140500},
+  doi       = {10.1016/j.chemosphere.2023.140500},
+  publisher = {Elsevier {BV}},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
